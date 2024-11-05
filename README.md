@@ -1,4 +1,3 @@
-<br> 
 
 # 🌱 TelegramPot: Smart Plant Watering System
 A smart plant care solution that combines Telegram API and Raspberry Pi 🌿  
