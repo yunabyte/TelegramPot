@@ -41,6 +41,5 @@ This project uses **IoT technology** to integrate a soil moisture sensor, water 
 ## 🎥 Demo Video
 [![Watch the Demo Video](https://img.youtube.com/vi/aDYlXivdQ04/0.jpg)](https://youtu.be/aDYlXivdQ04)  
 <br><br>
-<sub><i>This README was generated with assistance from ChatGPT</i></sub>  
 <sub>© 2024 Yuna. All rights reserved.</sub>
 <br><br>
